@@ -6,4 +6,4 @@ for n in range(len(lst)):
             lst[n],lst[lst.index(i)] = i,lst[n]
             print(lst)
 
-print("Son",lst)
+print(lst)
